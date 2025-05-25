@@ -91,3 +91,6 @@ Then input JSON data in the format:
 ## Blog
 
 For a detailed explanation of this project, check out below blog posts: 
+- [Building a Real-Time ETL Pipeline with Apache Beam and Kafka — Part 1: Consuming Events](https://medium.com/@banulakumarage/building-a-real-time-etl-pipeline-with-apache-beam-and-kafka-part-1-consuming-events-74627f5465b4)
+- [Building a Real-Time ETL Pipeline with Apache Beam and Kafka — Part 2: Processing and Persisting
+  ](https://medium.com/@banulakumarage/building-a-real-time-etl-pipeline-with-apache-beam-and-kafka-part-2-processing-and-persisting-fa41d03756e3)
